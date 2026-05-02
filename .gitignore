@@ -1,0 +1,20 @@
+# Binaries
+*.exe
+*.o
+*.obj
+*.out
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+
+# Node.js (for frontend)
+node_modules/
+dist/
+build/
+.env
+
+# Logs
+*.log
+Ride_Ticket.txt
